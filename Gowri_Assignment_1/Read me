@@ -1,0 +1,1 @@
+Histogram equalization is carried out on the image that is presented as input. This MATLAB code does not use any in-built image processing packages for equalizing or calculating histogram.
